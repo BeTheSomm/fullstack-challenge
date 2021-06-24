@@ -9,8 +9,7 @@ You can use any typed language you want and use any library you want to complete
 
 ## Requirements
 * The project should be able to run locally with docker compose
-* The project should be deployed on Google Cloud and be accessible publicly
-* User stories should be done in order and following the designs in [this figma file](https://www.figma.com/file/n4WlvWZefXti26xLd1mX34/Somm---marketplace?node-id=0%3A1). You can seed the products you’ll need by creating fake products. The expectation is at least 2000 items seeded.
+* User stories should be done in order and following the designs in [this figma file](https://www.figma.com/file/n4WlvWZefXti26xLd1mX34/Somm---marketplace?node-id=0%3A1). You can seed the products you’ll need by creating fake products.
 
 ### User story 1
 As a user I can see a list of products the web app is selling
@@ -35,12 +34,6 @@ As a user I can see the items I previously ordered at the top of the page so I c
 For this story, users need to be able to have an account and check out products. 
 * Keep signup very simple. It doesn't have to be secured. The app needs only needs to recognize a user.
 * Check out can be simulated and a simple click on the `Check Out` button can be enough.
-
-<img width="221" alt="image" src="https://user-images.githubusercontent.com/1434359/123333849-46443400-d510-11eb-94d2-7462e14d03f7.png">
-
-
-### User story 5
-As a user I can search for a product by its name and only the products that have a name close to my query should be shown
 
 <img width="221" alt="image" src="https://user-images.githubusercontent.com/1434359/123333849-46443400-d510-11eb-94d2-7462e14d03f7.png">
 
